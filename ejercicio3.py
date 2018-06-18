@@ -7,3 +7,6 @@
 # Utilice métodos montecarlo y el teorema de Bayes para encontrar la velocidad más probable del lanzador de proyectiles 
 # a medida que se va incluyendo información nueva sobre los valores del alcance.
 # Haga una grafica (bayes.png) que tenga la probabilidad de la velocidad inicial dados los datos observacionales.
+alcance=[61,115,31,117]
+v_min=15
+v_max=60
